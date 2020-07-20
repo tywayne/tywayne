@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Ty (he/him)
+For the past decade, I've worked in design and front end development across a variety of industries. I am currently a Developer at [Rehash](https://rehash.com), building successful retail and ecommerce experiences.
+
+I occasionally take on freelance design or development projects. If you're looking for that sort of thing, feel free to [email me](mailto:tywayne@hey.com) or hit me up on [Twitter](https://twitter.com/tywayne).
 
 <!--
 **tywayne/tywayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
